@@ -19,7 +19,7 @@ offline install guide coming soon
 ## [Cookie Clicker](/cookieclicker/index.html)
 ## [Plants Vs Zombies]
 
-- [Smuggled in a 2GB USB flash drive across the Chinese-Kazakh border in an empty gas tank(Obviously Chinese), CREDITS TO LONELYSTAR](/plantsvszombiesjs/source12/Index.htm)
+- [Smuggled in a 2GB USB flash drive across the Chinese-Kazakh border in an empty gas tank(Obviously Chinese so you need to translate the page by going into the browser menu & selecting translate), CREDITS TO LONELYSTAR](/plantsvszombiesjs/source12/Index.htm)
 - [Objectively better modded version of lonelystar's that I stole so ignore the warning](/plantsvszombiesjs/modstol/index.html):trollface:
 
 ## EL BALATRO
