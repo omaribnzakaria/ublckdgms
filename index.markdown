@@ -20,7 +20,13 @@ offline install guide coming soon
 ## [Plants Vs Zombies]
 
 - [Smuggled in a 2GB USB flash drive across the Chinese-Kazakh border in an empty gas tank(Obviously Chinese), CREDITS TO LONELYSTAR](/plantsvszombiesjs/source12/Index.htm)
-- [Objectively better modded version that I stole so ignore the warning](/plantsvszombiesjs/modstol/index.html):trollface:
+- [Objectively better modded version of lonelystar's that I stole so ignore the warning](/plantsvszombiesjs/modstol/index.html):trollface:
+
+## EL BALATRO
+- [Balatro clone](https://imisaacwu.github.io/webatro/)
+- [Joker Poker BalaBuilder(Makes a web version of the real balatro when given the .exe or .love file(this can be found in the game files of your copy of Balatro at home)), CREDITS TO w0w53r](https://w0w53r.github.io/web-balatro/)
+- If you don't have a copy of balatro but want to play the real balatro on web then contact me thorugh email or smh (school email is also allowed) & I will send you a prebuilt web version as I can't do that on this website due to it exceeding Github's 100MB limit on singular files
+
 ## Emulated Games (MIGHT HAVE TO MANUALLY MAP CONTROLS)
 To map controls, hover your mouse on the bottom on the screen and press control settings
 - Nintendo 64
