@@ -24,8 +24,10 @@ offline install guide coming soon
 
 ## EL BALATRO
 - [Balatro clone](https://imisaacwu.github.io/webatro/)
-- [Joker Poker BalaBuilder(Makes a web version of the real balatro when given the .exe or .love file(this can be found in the game files of your copy of Balatro at home)), CREDITS TO w0w53r](https://w0w53r.github.io/web-balatro/)
+- [Joker Poker BalaBuilder](https://w0w53r.github.io/web-balatro/)(Makes a web version of the real balatro when given the .exe or .love file(this can be found in the game files of your copy of Balatro at home)), CREDITS TO w0w53r
 - If you don't have a copy of balatro but want to play the real balatro on web then contact me thorugh email or smh (school email is also allowed) & I will send you a prebuilt web version as I can't do that on this website due to it exceeding Github's 100MB limit on singular files
+
+## [Bitlife](/bitlife/index.html)
 
 ## Emulated Games (MIGHT HAVE TO MANUALLY MAP CONTROLS)
 To map controls, hover your mouse on the bottom on the screen and press control settings
