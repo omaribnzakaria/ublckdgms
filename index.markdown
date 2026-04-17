@@ -40,6 +40,15 @@ To map controls, hover your mouse on the bottom on the screen and press control 
     - [Pokemon: Ruby](/emu/gba/pokemonruby/index.html)
     - [Gameboy Advance Controller diagram](https://upload.wikimedia.org/wikipedia/commons/4/4c/GBA_Controls_detailed.png)
 
+## Flash games
+- Papa's
+  - [Pizzeria](/flashgames/papas/pizzeria/index.html)
+  - [Burgeria](/flashgames/papas/burgeria/index.html)
+  - [Scooperia](/flashgames/papas/scooperia/index.html)
+- [Water Ragdoll 2](/flashgames/waterragdoll/index.html)
+- [Happy Wheels](/flashgames/happywheels/index.html)
+- [Bloons TD 5](/flashgames/bloonstd5/index.html)
+- [Binding of Isaac: Wrath of the Lamb](/flashgames/bindingofisaac/index.html)
 Currently transitioning more
 
 contact me or open an issue if you have a suggestion
