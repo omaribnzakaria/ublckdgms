@@ -4,6 +4,9 @@
 
 layout: default
 ---
+<a href="https://discord.gg/aUpeqRQs8u">
+<img src="discord.png" alt="OUR OFFICIAL DISCORD" width="100">
+<a>
 ## Eaglercraft
 
 - Web Assembly(slighlty faster but less compatible)
@@ -19,13 +22,15 @@ offline install guide coming soon
 ## [Cookie Clicker](/cookieclicker/index.html)
 ## [Plants Vs Zombies]
 
-- [Smuggled in a 2GB USB flash drive across the Chinese-Kazakh border in an empty gas tank(Obviously Chinese so you need to translate the page by going into the browser menu & selecting translate), CREDITS TO LONELYSTAR](/plantsvszombiesjs/source12/Index.htm)
+- [2012 Chinese version(Obviously have to translate it(use your browsers built in translate webpage tool))](/plantsvszombiesjs/source12/Index.htm)
 - [Objectively better modded version of lonelystar's that I stole so ignore the warning](/plantsvszombiesjs/modstol/index.html):trollface:
 
 ## EL BALATRO
 - [Balatro clone](https://imisaacwu.github.io/webatro/)
-- [Joker Poker BalaBuilder(Makes a web version of the real balatro when given the .exe or .love file(this can be found in the game files of your copy of Balatro at home)), CREDITS TO w0w53r](https://w0w53r.github.io/web-balatro/)
+- [Joker Poker BalaBuilder](https://w0w53r.github.io/web-balatro/)(Makes a web version of the real balatro when given the .exe or .love file(this can be found in the game files of your copy of Balatro at home)), CREDITS TO w0w53r
 - If you don't have a copy of balatro but want to play the real balatro on web then contact me thorugh email or smh (school email is also allowed) & I will send you a prebuilt web version as I can't do that on this website due to it exceeding Github's 100MB limit on singular files
+
+## [Bitlife](/bitlife/index.html)
 
 ## Emulated Games (MIGHT HAVE TO MANUALLY MAP CONTROLS)
 To map controls, hover your mouse on the bottom on the screen and press control settings
@@ -38,6 +43,27 @@ To map controls, hover your mouse on the bottom on the screen and press control 
     - [Pokemon: Ruby](/emu/gba/pokemonruby/index.html)
     - [Gameboy Advance Controller diagram](https://upload.wikimedia.org/wikipedia/commons/4/4c/GBA_Controls_detailed.png)
 
+## [Cuphead: CDV](/cuphead-cdv/index.html)
+## [Hollow Knight](/hollow-knight-opt/index.html)
+## [Five Nights At Epsteins](/fnae/index.html)
+## Five Nights at Freddy's
+- [1](/fnaf/1/index.html)
+- [2](/fnaf/2/index.html)
+- [3](/fnaf/3/index.html)
+- [4](/fnaf/4/index.html)
+- [Pizzeria Simulator](/fnaf/ps/index.html)
+- [Sister Location](/fnaf/sl/index.html)
+- [Ultimate Custom Night](/fnaf/ucn/index.html)
+- [World](/fnaf/w/index.html)
+## Flash games
+- Papa's
+  - [Pizzeria](/flashgames/papas/pizzeria/index.html)
+  - [Burgeria](/flashgames/papas/burgeria/index.html)
+  - [Scooperia](/flashgames/papas/scooperia/index.html)
+- [Water Ragdoll 2](/flashgames/waterragdoll/index.html)
+- [Happy Wheels](/flashgames/happywheels/index.html)
+- [Bloons TD 5](/flashgames/bloonstd5/index.html)
+- [Binding of Isaac: Wrath of the Lamb](/flashgames/bindingofisaac/index.html)
 Currently transitioning more
 
 contact me or open an issue if you have a suggestion
