@@ -28,7 +28,7 @@ offline install guide coming soon
 ## EL BALATRO
 - [Balatro clone](https://imisaacwu.github.io/webatro/)
 - [Joker Poker BalaBuilder](https://w0w53r.github.io/web-balatro/)(Makes a web version of the real balatro when given the .exe or .love file(this can be found in the game files of your copy of Balatro at home)), CREDITS TO w0w53r
-- If you don't have a copy of balatro but want to play the real balatro on web then contact me thorugh email or smh (school email is also allowed) & I will send you a prebuilt web version as I can't do that on this website due to it exceeding Github's 100MB limit on singular files
+- [Balatro!](/balatro.rar)(this is a .rar file, similar to a .zip file, you need to unzip it into your LOCAL files(NOT YOUR GOOGLE DRIVE) & run index.html)
 
 ## [Bitlife](/bitlife/index.html)
 
@@ -38,10 +38,24 @@ To map controls, hover your mouse on the bottom on the screen and press control 
     - [Super Mario 64](/emu/n64/mario64/index.html)
     - [Legend of Zelda: Ocarina of Time](/emu/n64/zeldaocarin/index.html)
     - [Mario Kart 64](/emu/n64/mariokart64/index.html)
+    - [Banjo-Kazooie](/emu/n64/banjokazooie/Banjo-Kazooie%20(USA)%20(Rev%201).z64)
+    - [Donkey Kong 64](/emu/n64/donkeykong/Donkey%20Kong%2064%20(USA).z64)
     - [N64 controller diagram](https://upload.wikimedia.org/wikipedia/commons/9/90/N64-controller-annotated.jpg)
+- Nintendo DS
+  - Ace Attorney
+    - [Phoenix Wright](/emu/ds/aceattorney/phoenixwright/index.html)
+      - [Justice for All](/emu/ds/aceattorney/phoenixwright/jfa/index.html)
+      - [Trials & Tribulations](/emu/ds/aceattorney/phoenixwright/tnt/index.html)
+    - [Apollo Justice](/emu/ds/aceattorney/apollojustice/index.html)
+    - Investigations
+      - [Miles Edgeworth](/emu/ds/aceattorney/investigations/me/index.html)
 - Game Boy: Advance
-    - [Pokemon: Ruby](/emu/gba/pokemonruby/index.html)
-    - [Gameboy Advance Controller diagram](https://upload.wikimedia.org/wikipedia/commons/4/4c/GBA_Controls_detailed.png)
+  - Pokemon
+    - [Ruby](/emu/gba/pokemon/ruby/index.html)
+    - [Emerald](/emu/gba/pokemon/emerald/index.html)
+  - [Gameboy Advance Controller diagram](https://upload.wikimedia.org/wikipedia/commons/4/4c/GBA_Controls_detailed.png)
+
+## [Undertale](/undertale/index.html)
 
 ## [Cuphead](/cuphead/index.html) CREDITS TO [WOAHHCRACKERS](https://github.com/woahhcrackers)
 ## [Hollow Knight](/hollow-knight-opt/index.html) CREDITS TO [HUMMINGBIRD-9](<https://github.com/hummingbird-9)
