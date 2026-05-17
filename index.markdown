@@ -20,9 +20,9 @@ offline install guide coming soon
 
 ## [Territorial.io](/fxclient/index.html)
 ## [Cookie Clicker](/cookieclicker/index.html)
-## [Plants Vs Zombies]
+## Plants Vs Zombies
 
-- [2012 Chinese version(Obviously have to translate it(use your browsers built in translate webpage tool))](/plantsvszombiesjs/source12/Index.htm)
+- [2012 LONELYSTAR Chinese version(Obviously have to translate it(use your browsers built in translate webpage tool))](/plantsvszombiesjs/source12/Index.htm)
 - [Objectively better modded version of lonelystar's that I stole so ignore the warning](/plantsvszombiesjs/modstol/index.html):trollface:
 
 ## EL BALATRO
@@ -43,10 +43,10 @@ To map controls, hover your mouse on the bottom on the screen and press control 
     - [Pokemon: Ruby](/emu/gba/pokemonruby/index.html)
     - [Gameboy Advance Controller diagram](https://upload.wikimedia.org/wikipedia/commons/4/4c/GBA_Controls_detailed.png)
 
-## [Cuphead: CDV](/cuphead-cdv/index.html)
-## [Hollow Knight](/hollow-knight-opt/index.html)
+## [Cuphead](/cuphead/index.html) CREDITS TO [WOAHHCRACKERS](https://github.com/woahhcrackers)
+## [Hollow Knight](/hollow-knight-opt/index.html) CREDITS TO [HUMMINGBIRD-9](<https://github.com/hummingbird-9)
 ## [Five Nights At Epsteins](/fnae/index.html)
-## Five Nights at Freddy's
+## Five Nights at Freddy's(CREDITS TO IRV77)
 - [1](/fnaf/1/index.html)
 - [2](/fnaf/2/index.html)
 - [3](/fnaf/3/index.html)
