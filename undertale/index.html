@@ -889,6 +889,15 @@
       });
     </script>
 	<!-- Load Main Game Runner JS File -->
+  <script>
+  const _open = XMLHttpRequest.prototype.open;
+  XMLHttpRequest.prototype.open = function(method, url, ...rest) {
+    if (typeof url === 'string' && url.endsWith('game.unx')) {
+      url = 'https://github.com/omaribnzakaria/ublckdgms/releases/download/Fakerelease/game.unx';
+    }
+    return _open.call(this, method, url, ...rest);
+  };
+  </script>
     <script async type="text/javascript" src="runner.js"></script>
   </body>
 </html>
