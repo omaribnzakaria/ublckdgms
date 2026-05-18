@@ -55,8 +55,6 @@ To map controls, hover your mouse on the bottom on the screen and press control 
     - [Emerald](/emu/gba/pokemon/emerald/index.html)
   - [Gameboy Advance Controller diagram](https://upload.wikimedia.org/wikipedia/commons/4/4c/GBA_Controls_detailed.png)
 
-## [Undertale](/undertale/index.html)
-
 ## [Cuphead](/cuphead/index.html) CREDITS TO [WOAHHCRACKERS](https://github.com/woahhcrackers)
 ## [Hollow Knight](/hollow-knight-opt/index.html) CREDITS TO [HUMMINGBIRD-9](<https://github.com/hummingbird-9)
 ## [Five Nights At Epsteins](/fnae/index.html)
