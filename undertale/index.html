@@ -893,7 +893,7 @@
   const _open = XMLHttpRequest.prototype.open;
   XMLHttpRequest.prototype.open = function(method, url, ...rest) {
     if (typeof url === 'string' && url.endsWith('game.unx')) {
-      url = 'https://github.com/omaribnzakaria/ublckdgms/releases/download/Fakerelease/game.unx';
+      url = 'https://proxy.corsfix.com/?https://github.com/omaribnzakaria/ublckdgms/releases/download/Fakerelease/game.unx';
     }
     return _open.call(this, method, url, ...rest);
   };
