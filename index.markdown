@@ -32,7 +32,7 @@ offline install guide coming soon
 
 ## [Bitlife](/bitlife/index.html)
 
-## Emulated Games (MIGHT HAVE TO MANUALLY MAP CONTROLS)
+## Emulated Games (MIGHT HAVE TO MANUALLY MAP CONTROLS) (Credits to the EmulatorJS team)
 To map controls, hover your mouse on the bottom on the screen and press control settings
 - Nintendo 64
     - [Super Mario 64](/emu/n64/mario64/index.html)
@@ -55,10 +55,10 @@ To map controls, hover your mouse on the bottom on the screen and press control 
     - [Emerald](/emu/gba/pokemon/emerald/index.html)
   - [Gameboy Advance Controller diagram](https://upload.wikimedia.org/wikipedia/commons/4/4c/GBA_Controls_detailed.png)
 
-## [Cuphead](/cuphead/index.html) CREDITS TO [WOAHHCRACKERS](https://github.com/woahhcrackers)
-## [Hollow Knight](/hollow-knight-opt/index.html) CREDITS TO [HUMMINGBIRD-9](<https://github.com/hummingbird-9)
+## [Cuphead](/cuphead/index.html), CREDITS TO [WOAHHCRACKERS](https://github.com/woahhcrackers)
+## [Hollow Knight](/hollow-knight-opt/index.html), CREDITS TO [HUMMINGBIRD-9](<https://github.com/hummingbird-9)
 ## [Five Nights At Epsteins](/fnae/index.html)
-## Five Nights at Freddy's(CREDITS TO IRV77)
+## Five Nights at Freddy's, CREDITS TO IRV77
 - [1](/fnaf/1/index.html)
 - [2](/fnaf/2/index.html)
 - [3](/fnaf/3/index.html)
@@ -67,6 +67,12 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 - [Sister Location](/fnaf/sl/index.html)
 - [Ultimate Custom Night](/fnaf/ucn/index.html)
 - [World](/fnaf/w/index.html)
+## [Undertale](/undertale/index.html), CREDITS TO [BURNTPOPCORN](https://github.com/burnedpopcorn/) FOR PORTING & [BANDIT968THEGAMER-OPS](https://github.com/bandit968thegamer-ops) FOR CONSERVING
+## [Deltarune: Chapters 1-4](/deltarune/index.html), CREDITS TO [GENIZY](https://github.com/genizy) FOR CONSERVING & [BOG](https://github.com/aukak)
+## Kindergarten, CREDITS TO [GENIZY](https://github.com/genizy)
+- [1](/kindergarten/1/index.html)
+- [2](/kindergarten/2/index.html)
+## [Pizza Tower](/pizza-tower/index.html), CREDITS TO [BURNTPOPCORN](https://github.com/burnedpopcorn/)
 ## Flash games
 - Papa's
   - [Pizzeria](/flashgames/papas/pizzeria/index.html)
