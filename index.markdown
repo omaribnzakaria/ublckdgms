@@ -97,6 +97,8 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 - [Happy Wheels](/flashgames/happywheels/index.html)
 - [Bloons TD 5](/flashgames/bloonstd5/index.html)
 - [Binding of Isaac: Wrath of the Lamb](/flashgames/bindingofisaac/index.html)
+- [Bloxorz](/flashgames/bloxorz/index.html)
+- [World's Hardest Game](/flashgames/whg/index.html)
 
 Currently transitioning more
 
