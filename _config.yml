@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Omar's Wacky Unblocked Games
+title: "Omar's Wacky Unblocked Games"
 email: mewavy007@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- This is a safe refuge form the fortinet firewall loaded with all your favorite games
+ "This is a safe refuge form the fortinet firewall loaded with all your favorite games"
 baseurl: "/ublckdgms" # the subpath of your site, e.g. /blog
 url: "https://omaribnzakaria.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
@@ -29,7 +29,8 @@ github_username:  omaribnzakaria
 
 # Build settings
 theme: jekyll-theme-hacker
-github: [metadata]
+github:
+  repository: omaribnzakaria/ublckdgms
 plugins:
   - jekyll-feed
 

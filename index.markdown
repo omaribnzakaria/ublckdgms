@@ -22,17 +22,17 @@ offline install guide coming soon
 ## [Cookie Clicker](/cookieclicker/index.html)
 ## Plants Vs Zombies
 
-- [2012 LONELYSTAR Chinese version(Obviously have to translate it(use your browsers built in translate webpage tool))](/plantsvszombiesjs/source12/Index.htm)
-- [Objectively better modded version of lonelystar's that I stole so ignore the warning](/plantsvszombiesjs/modstol/index.html):trollface:
+- [2012 Chinese version(Obviously have to translate it(use your browsers built in translate webpage tool))](/plantsvszombiesjs/source12/Index.htm)
+- [Objectively better modded version that I stole so ignore the warning](/plantsvszombiesjs/modstol/index.html):trollface:
 
 ## EL BALATRO
 - [Balatro clone](https://imisaacwu.github.io/webatro/)
-- [Joker Poker BalaBuilder](https://w0w53r.github.io/web-balatro/)(Makes a web version of the real balatro when given the .exe or .love file(this can be found in the game files of your copy of Balatro at home)), CREDITS TO w0w53r
+- [Joker Poker BalaBuilder](https://w0w53r.github.io/web-balatro/)(Makes a web version of the real balatro when given the .exe or .love file(this can be found in the game files of your copy of Balatro at home))
 - [Balatro!](/balatro.rar)(this is a .rar file, similar to a .zip file, you need to unzip it into your LOCAL files(NOT YOUR GOOGLE DRIVE) & run index.html)
 
 ## [Bitlife](/bitlife/index.html)
 
-## Emulated Games (MIGHT HAVE TO MANUALLY MAP CONTROLS) (Credits to the EmulatorJS team)
+## Emulated Games (MIGHT HAVE TO MANUALLY MAP CONTROLS)
 To map controls, hover your mouse on the bottom on the screen and press control settings
 - Nintendo 64
     - [Super Mario 64](/emu/n64/mario64/index.html)
@@ -55,10 +55,10 @@ To map controls, hover your mouse on the bottom on the screen and press control 
     - [Emerald](/emu/gba/pokemon/emerald/index.html)
   - [Gameboy Advance Controller diagram](https://upload.wikimedia.org/wikipedia/commons/4/4c/GBA_Controls_detailed.png)
 
-## [Cuphead](/cuphead/index.html), CREDITS TO [WOAHHCRACKERS](https://github.com/woahhcrackers)
-## [Hollow Knight](/hollow-knight-opt/index.html), CREDITS TO [HUMMINGBIRD-9](<https://github.com/hummingbird-9)
+## [Cuphead](/cuphead/index.html)
+## [Hollow Knight](/hollow-knight-opt/index.html)
 ## [Five Nights At Epsteins](/fnae/index.html)
-## Five Nights at Freddy's, CREDITS TO IRV77
+## Five Nights at Freddy's
 - [1](/fnaf/1/index.html)
 - [2](/fnaf/2/index.html)
 - [3](/fnaf/3/index.html)
@@ -67,13 +67,27 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 - [Sister Location](/fnaf/sl/index.html)
 - [Ultimate Custom Night](/fnaf/ucn/index.html)
 - [World](/fnaf/w/index.html)
-## [Undertale](/undertale/index.html), CREDITS TO [BURNTPOPCORN](https://github.com/burnedpopcorn/) FOR PORTING & [BANDIT968THEGAMER-OPS](https://github.com/bandit968thegamer-ops) FOR CONSERVING
-## [Deltarune: Chapters 1-4](/deltarune/index.html), CREDITS TO [GENIZY](https://github.com/genizy) FOR CONSERVING & [BOG](https://github.com/aukak)
-## Kindergarten, CREDITS TO [GENIZY](https://github.com/genizy)
+
+## [Undertale](/undertale/index.html)
+
+## [Deltarune: Chapters 1-4](/deltarune/index.html)
+
+## Kindergarten
 - [1](/kindergarten/1/index.html)
 - [2](/kindergarten/2/index.html)
-## [Pizza Tower](/pizza-tower/index.html), CREDITS TO [BURNTPOPCORN](https://github.com/burnedpopcorn/)
-## [ULTRAKILL](/ultrakill/index.html), CREDITS TO [98CORBINS](https://portsby98corbin.neocities.org/) FOR PORTING & [CHICKENSTRIP05](https://github.com/ChickenStrips05) FOR PRESERVING
+
+## [Pizza Tower](/pizza-tower/index.html)
+
+## [ULTRAKILL](/ultrakill/index.html)
+
+## [Doki Doki Literature Club](/ddlc/index.html)
+
+## [Baldi's Basics Remastered](/baldis-basics/index.html)
+
+## [Granny](/granny/index.html)
+
+## [Ragdoll Hit](/ragdollhit/index.html)
+
 ## Flash games
 - Papa's
   - [Pizzeria](/flashgames/papas/pizzeria/index.html)
@@ -83,8 +97,43 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 - [Happy Wheels](/flashgames/happywheels/index.html)
 - [Bloons TD 5](/flashgames/bloonstd5/index.html)
 - [Binding of Isaac: Wrath of the Lamb](/flashgames/bindingofisaac/index.html)
+
 Currently transitioning more
 
-contact me or open an issue if you have a suggestion
+contact me, tell in the discord server or open an issue if you have a suggestion
+
+Credits:
+
+
+PVZ: LONELYSTAR
+
+Joker Poker Balabuilder: w0w53r
+
+Webatro: imisaacwu
+
+All emulated games: EmulatorJS team
+
+Cuphead: [woahhcrackers](https://github.com/woahhcrackers)
+
+Hollowknight: [hummingbird-9](https://github.com/hummingbird-9)
+
+Undertale: [burntpopcorn180](https://github.com/burnedpopcorn/) for porting & [bandit968thegamer-ops](https://github.com/bandit968thegamer-ops) for conserving
+
+Deltarune: [genizy](https://github.com/genizy) for conserving & [BOG](https://github.com/aukak) for porting
+
+Kindergarten: [genizy](https://github.com/genizy)
+
+Pizza Tower: [burntpopcorn180](https://github.com/burnedpopcorn/)
+
+ULTRAKILL: [98corbins](https://portsby98corbin.neocities.org/) for porting & [ChickenStrips05](https://github.com/ChickenStrips05) for preserving
+
+FNAF: IRV77
+
+DDLC: [allclientry](https://github.com/allclientry)
+
+Granny: conserved by MapL
+
+Baldis Basics: Conserved by MapL
 
 [Home](https://omaribnzakaria.github.io)
+
