@@ -98,10 +98,6 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 
 ## [Sheepy](/sheepy/index.html)
 
-## [Class of '09](/class-of-09/index.html)
-
-## MY FEMBOY ROOMATE CLEAN COMING SOON
-
 ## [X-CLIENT BLOOKET HACK](/xclient.txt) (put this in your terminal(Ctrl+Shift+I then go to debug or smh) while playing blooket)
 
 ##
