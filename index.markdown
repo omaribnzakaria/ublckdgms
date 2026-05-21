@@ -56,8 +56,11 @@ To map controls, hover your mouse on the bottom on the screen and press control 
   - [Gameboy Advance Controller diagram](https://upload.wikimedia.org/wikipedia/commons/4/4c/GBA_Controls_detailed.png)
 
 ## [Cuphead](/cuphead/index.html)
+
 ## [Hollow Knight](/hollow-knight-opt/index.html)
+
 ## [Five Nights At Epsteins](/fnae/index.html)
+
 ## Five Nights at Freddy's
 - [1](/fnaf/1/index.html)
 - [2](/fnaf/2/index.html)
@@ -78,7 +81,7 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 
 ## [Pizza Tower](/pizza-tower/index.html)
 
-## [ULTRAKILL](/ultrakill/index.html)
+## [ULTRAKILL(DEMO)](/ultrakill/index.html)
 
 ## [Doki Doki Literature Club](/ddlc/index.html)
 
@@ -88,7 +91,7 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 
 ## [Ragdoll Hit](/ragdollhit/index.html)
 
-## [OMORI](/omori/index.html)
+## [OMORI](../ublckdgms2/omori/index.html)
 
 ## [Undertale Yellow](/undertale-yellow/index.html)
 
@@ -98,9 +101,10 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 
 ## [Sheepy](/sheepy/index.html)
 
-## [X-CLIENT BLOOKET HACK](/xclient.txt) (put this in your terminal(Ctrl+Shift+I then go to debug or smh) while playing blooket)
+## [X-CLIENT BLOOKET HACK 2](/xclient.txt) (put this in your terminal(Ctrl+Shift+I then go to debug or smh) while playing blooket)
 
-##
+Class of '09 codeword: class-of-09
+
 ## Flash games
 - Papa's
   - [Pizzeria](/flashgames/papas/pizzeria/index.html)
@@ -149,6 +153,12 @@ DDLC: [allclientry](https://github.com/allclientry)
 Granny: conserved by MapL
 
 Baldis Basics: Conserved by MapL
+
+OMORI: [genizy](https://github.com/genizy)
+
+Undertale Yellow: [burntpopcorn180](https://github.com/burnedpopcorn/) for porting & [genizy](https://github.com/genizy) for conserving
+
+Sheepy: [Ading2210](https://github.com/ading2210)
 
 [Home](https://omaribnzakaria.github.io)
 
