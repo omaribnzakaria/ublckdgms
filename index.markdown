@@ -88,6 +88,23 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 
 ## [Ragdoll Hit](/ragdollhit/index.html)
 
+## [OMORI](/omori/index.html)
+
+## [Undertale Yellow](/undertale-yellow/index.html)
+
+## [Buckshot Roulette](/buckshot-roulette/index.html)
+
+## [That's not my Neighbor](/thats-not-my-neighbor/index.html)
+
+## [Sheepy](/sheepy/index.html)
+
+## [Class of '09](/class-of-09/index.html)
+
+## MY FEMBOY ROOMATE CLEAN COMING SOON
+
+## [X-CLIENT BLOOKET HACK](/xclient.txt) (put this in your terminal(Ctrl+Shift+I then go to debug or smh) while playing blooket)
+
+##
 ## Flash games
 - Papa's
   - [Pizzeria](/flashgames/papas/pizzeria/index.html)
