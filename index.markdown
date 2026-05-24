@@ -106,9 +106,21 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 - [City](/escape-road/city/index.html)
   - [2](/escape-road/city/2/index.html)
 
+## Fears to Fathom
+- [Part 1: Home Alone](../ublckdgms2//fears-to-fathom/home-alone/index.html)
+
+## [Geometry Dash](/gdwebp/index.html)
+
+## Little Alchemy
+- [2](/little-alchemy-2/index.html)
+
+## [Plague Inc: Evolved](/plagueinc-ev/index.html)
+
+## [Stardew Valley](/stardew-valley/index.html)
+
 ## [X-CLIENT BLOOKET HACK 2](/xclient.txt) (put this in your terminal(Ctrl+Shift+I then go to debug or smh) while playing blooket)
 
-Class of '09 codeword: class-of-09
+Class of '09 codeword: c009
 
 ## Flash games
 - Papa's
@@ -145,9 +157,9 @@ Undertale: [burntpopcorn180](https://github.com/burnedpopcorn/) for porting & [b
 
 Deltarune: [genizy](https://github.com/genizy) for conserving & [BOG](https://github.com/aukak) for porting
 
-Kindergarten: [genizy](https://github.com/genizy)
+Kindergarten: genizy
 
-Pizza Tower: [burntpopcorn180](https://github.com/burnedpopcorn/)
+Pizza Tower: burntpopcorn180
 
 ULTRAKILL: [98corbins](https://portsby98corbin.neocities.org/) for porting & [ChickenStrips05](https://github.com/ChickenStrips05) for preserving
 
@@ -159,13 +171,23 @@ Granny: conserved by MapL
 
 Baldis Basics: Conserved by MapL
 
-OMORI: [genizy](https://github.com/genizy)
+OMORI: genizy
 
-Undertale Yellow: [burntpopcorn180](https://github.com/burnedpopcorn/) for porting & [genizy](https://github.com/genizy) for conserving
+Undertale Yellow: burntpopcorn180 for porting & genizy for conserving
 
 Sheepy: [Ading2210](https://github.com/ading2210)
 
 Class of 09: ME, ALL ME, OMAR IBN ZAKARIA(For porting ofc)
+
+Geometry Dash: Web Dashers team, incl genizy
+
+Plague Inc: [Reeyuki](https://github.com/Reeyuki)
+
+Little Alchemy 2: [tw31122007](https://github.com/tw31122007)
+
+Stardew Valley: [Cirsius](https://github.com/degloved-net)
+
+Fears to Fathom: [slqntdevss](https://github.com/slqntdevss)
 
 [Home](https://omaribnzakaria.github.io)
 
