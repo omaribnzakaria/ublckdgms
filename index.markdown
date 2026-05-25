@@ -120,6 +120,8 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 
 ## [X-CLIENT BLOOKET HACK 2](/xclient.txt) (put this in your terminal(Ctrl+Shift+I then go to debug or smh) while playing blooket)
 
+## [Raldi's Crackhouse!](/raldi/index.html)
+
 Class of '09 codeword: c009
 
 ## Flash games
@@ -189,5 +191,6 @@ Stardew Valley: [Cirsius](https://github.com/degloved-net)
 
 Fears to Fathom: [slqntdevss](https://github.com/slqntdevss)
 
+Raldis Crackhouse: Port by me, decompiled by IvanLom2014 ig?
 [Home](https://omaribnzakaria.github.io)
 
