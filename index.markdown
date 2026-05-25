@@ -38,8 +38,8 @@ To map controls, hover your mouse on the bottom on the screen and press control 
     - [Super Mario 64](/emu/n64/mario64/index.html)
     - [Legend of Zelda: Ocarina of Time](/emu/n64/zeldaocarin/index.html)
     - [Mario Kart 64](/emu/n64/mariokart64/index.html)
-    - [Banjo-Kazooie](/emu/n64/banjokazooie/Banjo-Kazooie%20(USA)%20(Rev%201).z64)
-    - [Donkey Kong 64](/emu/n64/donkeykong/Donkey%20Kong%2064%20(USA).z64)
+    - [Banjo-Kazooie](/emu/n64/banjokazooie/index.html)
+    - [Donkey Kong 64](/emu/n64/donkeykong/index.html)
     - [N64 controller diagram](https://upload.wikimedia.org/wikipedia/commons/9/90/N64-controller-annotated.jpg)
 - Nintendo DS
   - Ace Attorney
