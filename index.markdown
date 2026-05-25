@@ -120,7 +120,7 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 
 ## [X-CLIENT BLOOKET HACK 2](/xclient.txt) (put this in your terminal(Ctrl+Shift+I then go to debug or smh) while playing blooket)
 
-## [Raldi's Crackhouse!](/raldi/index.html)
+## [Raldi's Crackhouse!](../ublckdgms2//raldi/index.html)
 
 Class of '09 codeword: c009
 
