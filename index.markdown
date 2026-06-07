@@ -40,6 +40,7 @@ To map controls, hover your mouse on the bottom on the screen and press control 
     - [Mario Kart 64](/emu/n64/mariokart64/index.html)
     - [Banjo-Kazooie](/emu/n64/banjokazooie/index.html)
     - [Donkey Kong 64](/emu/n64/donkeykong/index.html)
+    - [Mischief Makers](/emu/n64/mischief-makers/index.html)
     - [N64 controller diagram](https://upload.wikimedia.org/wikipedia/commons/9/90/N64-controller-annotated.jpg)
 - Nintendo DS
   - Ace Attorney
