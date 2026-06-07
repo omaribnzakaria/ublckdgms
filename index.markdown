@@ -57,7 +57,7 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 
 ## [Cuphead](../ublckdgms2/cuphead/index.html)
 
-## [Hollow Knight](/hollow-knight-opt/index.html)
+## [Hollow Knight](../ublckdgms2/hollow-knight-opt/index.html)
 
 ## [Five Nights At Epsteins](/fnae/index.html)
 
@@ -121,6 +121,26 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 ## [X-CLIENT BLOOKET HACK 2](/xclient.txt) (put this in your terminal(Ctrl+Shift+I then go to debug or smh) while playing blooket)
 
 ## [Raldi's Crackhouse!](../ublckdgms2//raldi/index.html)
+
+## [Angry Birds original +Seasonal](/angry-birds/index.html)
+
+## [False Frights](/false-frights/index.html)
+
+## [Funny Shooter](/funny-shooter/index.html)
+
+## [Moto X3M](/moto-x3m/index.html)
+- [2](/moto-x3m/2/index.html)
+- [Pool Party or 3](/moto-x3m/3/index.html)
+- Seasonal
+  - [Winter](/moto-x3m/seasonal/winter/index.html)
+  - [Spooky](/moto-x3m/seasonal/spooky/index.html)
+
+## VEX
+- [3](/vex/3/index.html)
+- [4](/vex/4/index.html)
+- [5](/vex/5/index.html)
+- [6](/vex/6/index.html)
+- [7](/vex/7/index.html)
 
 Class of '09 codeword: c009
 
