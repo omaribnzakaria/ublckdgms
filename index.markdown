@@ -120,8 +120,6 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 
 ## [Stardew Valley](/stardew-valley/index.html)
 
-## [X-CLIENT BLOOKET HACK 2](/xclient.txt) (put this in your terminal(Ctrl+Shift+I then go to debug or smh) while playing blooket)
-
 ## [Raldi's Crackhouse!](../ublckdgms2//raldi/index.html)
 
 ## [Angry Birds original +Seasonal](/angry-birds/index.html)
@@ -144,6 +142,8 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 - [6](/vex/6/index.html)
 - [7](/vex/7/index.html)
 
+## [REPO](/repo/index.html)
+
 ## [Polytrack Modded](/polytrack/index.html)
 
 ## [Paper.io 2](/paperio2/index.html)
@@ -162,6 +162,8 @@ Class of '09 codeword: c009
 - [Bloxorz](/flashgames/bloxorz/index.html)
 - [World's Hardest Game](/flashgames/whg/index.html)
 - [SCOOBY DOO CREEPY RUN](/flashgames/scoobyrun/index.html)
+
+## [X-CLIENT BLOOKET HACK 2](/xclient.txt) (put this in your terminal(Ctrl+Shift+I then go to debug or smh) while playing blooket)
 
 Currently transitioning more
 
