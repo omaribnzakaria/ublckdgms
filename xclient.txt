@@ -1,47 +1,5 @@
-
-
-// ==UserScript==
-// @name         X-GUI CLIENT FOR BLOOKET
-// @namespace    http://tampermonkey.net/
-// @version      6.40x
-// @description  NOT PATCHED ANYMORE, THE BEST GUI ON THE WEB! ADVANCED ANTIBAN AND TONS OF FEATURES {CHEAT} {HACK} {CLIENT}
-// @author       You
-// @run-at       document-end
-// @match        *://*.blooket.com/*
-// @match        *://blooket.com/*
-// @license      APGL-3.0
-// @icon         https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNGpzdnl1czBxcm14bGt6OWR5MHVucnIzN3BseGxrNDRrZGpoMGZ1MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pgslAFp1vWALCgFlrC/giphy.gif
-// @grant        none
-// @downloadURL https://update.greasyfork.org/scriptss/553301/X-GUI%20CLIENT%20FOR%20BLOOKET.user.js
-// @updateURL https://update.greasyfork.org/scripts/553301/X-GUI%20CLIENT%20FOR%20BLOOKET.meta.js
-// ==/UserScript==
-
 (function() {
     'use strict';
-
-    /**
- * @license AGPL-3.0
- * Blooket Cheats
- * Copyright (C) 2023-present 05Konz/Xullys
- * This program is free software: you can redistribute it and/or modify
- * it under the terms of the GNU Affero General Public License as published
- * by the Free Software Foundation, either version 3 of the License, or
- * (at your option) any later version.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU Affero General Public License for more details.
- *
- * You should have received a copy of the GNU Affero General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
- *
- * Source: https://github.com/Blooket-Council/Blooket-Cheats * EMAIL: 05konz994@gmail.com
- * Source: https://greasyfork.org/en/scripts/553301/versions/new * EMAIL slinkingfox@outlook.com
-
-*/
-
-/* THE UPDATE CHECKER IS ADDED DURING COMMIT PREP, THERE MAY BE REDUNDANT CODE, DO NOT TOUCH */
 (() => {
     let iframe = document.querySelector("iframe");
     if (!iframe) {
@@ -432,9 +390,6 @@ controls.append(moveControl, minimizeControl, closeControl);
     const COOKIE_OPTS = "; path=/; domain=.blooket.com; expires=Tue, 19 Jan 2038 03:14:07 GMT";
     const SHIFT = 678; // your minimize left-shift
 
-    // ---------------------------
-    // COOKIE HELPERS
-    // ---------------------------
     function saveState(state) {
         try {
             document.cookie =
@@ -449,9 +404,6 @@ controls.append(moveControl, minimizeControl, closeControl);
         } catch (e) { return {}; }
     }
 
-    // ---------------------------
-    // SAFE SAVE (always store NON-minimized coords)
-    // ---------------------------
     function saveNow() {
         try {
             const rect = gui.getBoundingClientRect();
@@ -472,9 +424,6 @@ controls.append(moveControl, minimizeControl, closeControl);
         } catch (e) {}
     }
 
-    // ---------------------------
-    // RESTORE AFTER GUI IS BUILT
-    // ---------------------------
     (async function restore() {
 
         // Wait until fully initialized (prevents GUI failing to load)
