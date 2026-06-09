@@ -64,14 +64,14 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 ## [Five Nights At Epsteins](/fnae/index.html)
 
 ## Five Nights at Freddy's
-- [1](/fnaf/1/index.html)
-- [2](/fnaf/2/index.html)
-- [3](/fnaf/3/index.html)
-- [4](/fnaf/4/index.html)
-- [Pizzeria Simulator](/fnaf/ps/index.html)
-- [Sister Location](/fnaf/sl/index.html)
-- [Ultimate Custom Night](/fnaf/ucn/index.html)
-- [World](/fnaf/w/index.html)
+- [1](../ublckdgms3/fnaf/1/index.html)
+- [2](../ublckdgms3/fnaf/2/index.html)
+- [3](../ublckdgms3/fnaf/3/index.html)
+- [4](../ublckdgms3/fnaf/4/index.html)
+- [Pizzeria Simulator](../ublckdgms3/fnaf/ps/index.html)
+- [Sister Location](../ublckdgms3/fnaf/sl/index.html)
+- [Ultimate Custom Night](../ublckdgms3/fnaf/ucn/index.html)
+- [World](../ublckdgms3/fnaf/w/index.html)
 
 ## [Undertale](/undertale/index.html)
 
@@ -93,7 +93,7 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 
 ## [Ragdoll Hit](/ragdollhit/index.html)
 
-## [OMORI](../ublckdgms2/omori/index.html)
+## [OMORI](../ublckdgms3/omori/index.html)
 
 ## [Undertale Yellow](/undertale-yellow/index.html)
 
