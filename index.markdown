@@ -51,11 +51,17 @@ To map controls, hover your mouse on the bottom on the screen and press control 
     - [Apollo Justice](/emu/ds/aceattorney/apollojustice/index.html)
     - Investigations
       - [Miles Edgeworth](/emu/ds/aceattorney/investigations/me/index.html)
+  - Pokemon
+    - [Platinum](/emu/ds/pokemon/platinum/platinum.rar) (remember, this is a rar file, extract it then open index.html)
 - Game Boy: Advance
   - Pokemon
     - [Ruby](/emu/gba/pokemon/ruby/index.html)
     - [Emerald](/emu/gba/pokemon/emerald/index.html)
   - [Gameboy Advance Controller diagram](https://upload.wikimedia.org/wikipedia/commons/4/4c/GBA_Controls_detailed.png)
+- Super Nintendo Entertainment System
+  - Donkey Kong
+    - Country
+      - [2: Diddies Quest](/emu/snes/donkey-kong/country/2/index.html)
 
 ## [Cuphead](../ublckdgms2/cuphead/index.html)
 
