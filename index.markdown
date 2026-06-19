@@ -4,9 +4,12 @@
 
 layout: default
 ---
+PRESS THE GITHUB LINK AT THE TOP FOR GUIDES FOR THIS WEBSITE N STUFF
 <a href="https://discord.gg/aUpeqRQs8u">
 <img src="discord.png" alt="OUR OFFICIAL DISCORD" width="100">
+OUR OFFICIAL DISCORD
 <a>
+
 ## Eaglercraft
 
 - Web Assembly(slighlty faster but less compatible)
@@ -36,32 +39,34 @@ offline install guide coming soon
 ## Emulated Games (MIGHT HAVE TO MANUALLY MAP CONTROLS)
 To map controls, hover your mouse on the bottom on the screen and press control settings
 - Nintendo 64
-    - [Super Mario 64](/emu/n64/mario64/index.html)
-    - [Legend of Zelda: Ocarina of Time](/emu/n64/zeldaocarin/index.html)
-    - [Mario Kart 64](/emu/n64/mariokart64/index.html)
-    - [Banjo-Kazooie](/emu/n64/banjokazooie/index.html)
-    - [Donkey Kong 64](/emu/n64/donkeykong/index.html)
-    - [Mischief Makers](/emu/n64/mischief-makers/index.html)
+    - [Super Mario 64](../ublckdgms2/emu/n64/mario64/index.html)
+    - [Legend of Zelda: Ocarina of Time](../ublckdgms2/emu/n64/zeldaocarin/index.html)
+    - [Mario Kart 64](../ublckdgms2/emu/n64/mariokart64/index.html)
+    - [Banjo-Kazooie](../ublckdgms2/emu/n64/banjokazooie/index.html)
+    - [Donkey Kong 64](../ublckdgms2/emu/n64/donkeykong/index.html)
+    - [Mischief Makers](../ublckdgms2/emu/n64/mischief-makers/index.html)
     - [N64 controller diagram](https://upload.wikimedia.org/wikipedia/commons/9/90/N64-controller-annotated.jpg)
 - Nintendo DS
   - Ace Attorney
-    - [Phoenix Wright](/emu/ds/aceattorney/phoenixwright/index.html)
-      - [Justice for All](/emu/ds/aceattorney/phoenixwright/jfa/index.html)
-      - [Trials & Tribulations](/emu/ds/aceattorney/phoenixwright/tnt/index.html)
-    - [Apollo Justice](/emu/ds/aceattorney/apollojustice/index.html)
+    - [Phoenix Wright](../ublckdgms2/emu/ds/aceattorney/phoenixwright/index.html)
+      - [Justice for All](../ublckdgms2/emu/ds/aceattorney/phoenixwright/jfa/index.html)
+      - [Trials & Tribulations](../ublckdgms2/emu/ds/aceattorney/phoenixwright/tnt/index.html)
+    - [Apollo Justice](../ublckdgms2/emu/ds/aceattorney/apollojustice/index.html)
     - Investigations
-      - [Miles Edgeworth](/emu/ds/aceattorney/investigations/me/index.html)
+      - [Miles Edgeworth](../ublckdgms2/emu/ds/aceattorney/investigations/me/index.html)
   - Pokemon
-    - [Platinum](/emu/ds/pokemon/platinum/platinum.rar) (remember, this is a rar file, extract it then open index.html)
+    - [Platinum](../ublckdgms2/emu/ds/pokemon/platinum/index.html), NEW!!!!
 - Game Boy: Advance
   - Pokemon
-    - [Ruby](/emu/gba/pokemon/ruby/index.html)
-    - [Emerald](/emu/gba/pokemon/emerald/index.html)
+    - [Ruby](../ublckdgms2/emu/gba/pokemon/ruby/index.html)
+    - [Emerald](../ublckdgms2/emu/gba/pokemon/emerald/index.html)
   - [Gameboy Advance Controller diagram](https://upload.wikimedia.org/wikipedia/commons/4/4c/GBA_Controls_detailed.png)
 - Super Nintendo Entertainment System
   - Donkey Kong
     - Country
-      - [2: Diddies Quest](/emu/snes/donkey-kong/country/2/index.html)
+      - [2: Diddies Quest](../ublckdgms2/emu/snes/donkey-kong/country/2/index.html)
+- Playstation 1
+  - [Metal Gear Solid](../ublckdgms2/emu/ps1/metalgearsolid/index.html), NEW !!!!
 
 ## [Cuphead](../ublckdgms2/cuphead/index.html)
 
@@ -117,10 +122,7 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 ## Fears to Fathom
 - [Part 1: Home Alone](../ublckdgms2//fears-to-fathom/home-alone/index.html)
 
-## [Geometry Dash](/gdwebp/index.html)
-
-## Little Alchemy
-- [2](/little-alchemy-2/index.html)
+## [Geometry Dash](/gdwebp/index.html), UPDATE!!!!!
 
 ## [Plague Inc: Evolved](/plagueinc-ev/index.html)
 
@@ -153,6 +155,8 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 ## [Polytrack Modded](/polytrack/index.html)
 
 ## [Paper.io 2](/paperio2/index.html)
+
+## [Grand Theft Auto: Vice City](/gtavc/index.html)
 
 Class of '09 codeword: c009
 
