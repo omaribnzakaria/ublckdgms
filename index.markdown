@@ -127,7 +127,7 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 
 ## [Plague Inc: Evolved](/plagueinc-ev/index.html)
 
-## [Stardew Valley](/stardew-valley/index.html)
+## [Stardew Valley](../ublckdgms2/stardew-valley/index.html)
 
 ## [Raldi's Crackhouse!](../ublckdgms2//raldi/index.html)
 
