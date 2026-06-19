@@ -5,6 +5,7 @@
 layout: default
 ---
 PRESS THE GITHUB LINK AT THE TOP FOR GUIDES FOR THIS WEBSITE N STUFF
+
 <a href="https://discord.gg/aUpeqRQs8u">
 <img src="discord.png" alt="OUR OFFICIAL DISCORD" width="100">
 OUR OFFICIAL DISCORD
@@ -157,6 +158,7 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 ## [Paper.io 2](/paperio2/index.html)
 
 ## [Grand Theft Auto: Vice City](/gtavc/index.html)
+- [Offline Download for local hosting & also hosting for yourself as I am hosting the actual game on vercel so you can't just copy this](https://pub-2d16fbb9a4014be1abf81679ee7e6b24.r2.dev/offlinegtavc.7z), this is a 7z file so you have to extract it using 7zip, this only runs if you add a slash at the end of the url & also if you use a web server such as npx serve
 
 Class of '09 codeword: c009
 
