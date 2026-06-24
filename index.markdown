@@ -4,6 +4,7 @@
 
 layout: default
 ---
+[Home](../)
 PRESS THE GITHUB LINK AT THE TOP FOR GUIDES FOR THIS WEBSITE N STUFF
 
 <a href="https://discord.gg/aUpeqRQs8u">
@@ -67,6 +68,13 @@ To map controls, hover your mouse on the bottom on the screen and press control 
       - [2: Diddies Quest](../ublckdgms2/emu/snes/donkey-kong/country/2/index.html)
 - Playstation 1
   - [Metal Gear Solid](../ublckdgms2/emu/ps1/metalgearsolid/index.html), NEW !!!!
+  - [The Need for Speed](../nfswp/index.html)
+    - [2](../nfswp/2/index.html)
+    - [3](../nfswp/3/index.html)
+  - Final Fantasy
+    - [7](../finalfantawp/7/index.html)
+    - [8](../finalfantawp/8/index.html)
+    - [9](../finalfantawp/9/index.html)
 
 ## [Cuphead](../ublckdgms2/cuphead/index.html)
 
@@ -94,7 +102,7 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 
 ## [Pizza Tower](/pizza-tower/index.html)
 
-## [ULTRAKILL(DEMO)](/ultrakill/index.html)
+## [ULTRAKILL](/ultrakill/index.html)
 
 ## [Doki Doki Literature Club](/ddlc/index.html)
 
@@ -159,6 +167,8 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 ## [Grand Theft Auto: Vice City](/gtavc/index.html)
 - [Offline Download for local hosting & also hosting for yourself as I am hosting the actual game on vercel so you can't just copy this](https://pub-2d16fbb9a4014be1abf81679ee7e6b24.r2.dev/offlinegtavc.7z), this is a 7z file so you have to extract it using 7zip, this only runs if you add a slash at the end of the url & also if you use a web server such as npx serve
 
+## [Half Life](../ublckdgms2/half-life/index.html)
+
 Class of '09 codeword: c009
 
 ## Flash games
@@ -203,7 +213,7 @@ Kindergarten: genizy
 
 Pizza Tower: burntpopcorn180
 
-ULTRAKILL: [98corbins](https://portsby98corbin.neocities.org/) for porting & [ChickenStrips05](https://github.com/ChickenStrips05) for preserving
+ULTRAKILL: [98corbins](https://portsby98corbin.neocities.org/) for porting & [genizy](https://github.com/genizy) for preserving
 
 FNAF: IRV77
 
@@ -234,6 +244,8 @@ Fears to Fathom: [slqntdevss](https://github.com/slqntdevss)
 Raldis Crackhouse: Port by me, decompiled by IvanLom2014 ig?
 
 PVZ 2 gardenless by Gaozih
+
+GTA Vice City by the REVCDOS
 
 [Home](https://omaribnzakaria.github.io)
 
