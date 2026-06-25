@@ -27,9 +27,9 @@ offline install guide coming soon
 ## [Cookie Clicker](/cookieclicker/index.html)
 ## Plants Vs Zombies
 
-- [2012 Chinese version(Obviously have to translate it(use your browsers built in translate webpage tool))](../ublckdgms2/plantsvszombiesjs/source12/Index.htm)
-- [Objectively better modded version that I stole so ignore the warning](../ublckdgms2/plantsvszombiesjs/modstol/index.html):trollface:
-- [TWO](../ublckdgms2/plantsvszombiesjs/2/index.html)
+- [2012 Chinese version(Obviously have to translate it(use your browsers built in translate webpage tool))](../ublckdgms3/plantsvszombiesjs/source12/Index.htm)
+- [Objectively better modded version that I stole so ignore the warning](../ublckdgms3/plantsvszombiesjs/modstol/index.html):trollface:
+- [TWO](../ublckdgms3/plantsvszombiesjs/2/index.html)
 
 ## [EL BALATRO!](/balatrojs/index.html)
 - [Joker Poker BalaBuilder](https://w0w53r.github.io/web-balatro/)(Makes a web version of the real balatro when given the .exe or .love file(this can be found in the game files of your copy of Balatro at home))
@@ -138,7 +138,8 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 
 ## [Raldi's Crackhouse!](../ublckdgms2//raldi/index.html)
 
-## [Angry Birds original +Seasonal](/angry-birds/index.html)
+## [Angry Birds!](../ublckdgms2/angry-birds/index.html)
+- [2](../ublckdgms2/angry-birds/2/index.html)
 
 ## [False Frights](/false-frights/index.html)
 
@@ -168,6 +169,8 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 - [Offline Download for local hosting & also hosting for yourself as I am hosting the actual game on vercel so you can't just copy this](https://pub-2d16fbb9a4014be1abf81679ee7e6b24.r2.dev/offlinegtavc.7z), this is a 7z file so you have to extract it using 7zip, this only runs if you add a slash at the end of the url & also if you use a web server such as npx serve
 
 ## [Half Life](../ublckdgms2/half-life/index.html)
+
+## [Bad Piggies +Cheats](../ublckdgms2/baddie-piggies/index.html)
 
 Class of '09 codeword: c009
 
