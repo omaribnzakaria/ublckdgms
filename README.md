@@ -1,6 +1,6 @@
 # UBLCKDGMS
 
-This is supposed to be a collection of unblocked games that only need a web server or less to work & can be used on github pages
+This is supposed to be a collection of web games that only need a web server or less to work & can be used on github pages
 
 ## Blocked? NO PROBLEM
 
@@ -21,4 +21,16 @@ just go to https://omaribnzakaria.github.io/ublckdgms/birdseed/`code`
    3. make sure that it supports as low as just a web server (run npx serve in your fork's clone's directory)
    4. make sure that it makes no requests to other website other then for arbritrary reasons such as leader boards
       1. you can check this by going into devtools in your browser while running the game & going into network tab & making sure it makes no requests other then the host(localhost, 127.0.0.1, file:// etc.)
+   5. you can try & find your game in the sources below
 3. create a pull request to my repo
+
+## Sources:
+- [genizy](https://github.com/genizy/web-port) for most of the games, contains web ports of pc games
+- [crisisapple89](https://github.com/crisisapple89/crisisapple89.github.io) for funny shooter
+- Vimm's layer(I am legally not allowed to link this, just search it up on google) for the emulated game roms
+- [EmulatorJS code generator](https://emulatorjs.org/editor) to generate code for the emulator
+- [3kh0 assets](https://gitlab.com/3kh0/3kh0-assets) assets for another unblocked games website
+- [Xash3D](https://github.com/yohimik/webxash3d-fwgs) for the half life & counterstrike porting tech, someone work on the counterstrike port on their own time & then follow the steps above if they can
+- [HTML-Games-V2](https://github.com/tw31122007/HTML-Games-V2) for the Moto-X3M & Vex 3 games, contains alot of web browser games
+- [Flash Storage dot games](https://flashstorage.games/) for the flash swf files
+- [Ruffle](https://ruffle.rs/downloads#website-package) for flash emulation on browser
