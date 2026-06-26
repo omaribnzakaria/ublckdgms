@@ -18,11 +18,21 @@ just go to https://omaribnzakaria.github.io/ublckdgms/birdseed/`code`
 2. add your game in its own folder in your fork
    1. make sure that it contains index.html
    2. make sure that it actually runs the game itself in web browser
-   3. make sure that it supports as low as just a web server (run npx serve in your fork's clone's directory)
+   3. make sure that it supports as low as just a web server (run npx serve in your fork's clone's directory in the terminal)
+      1. make sure you have NodeJS, npm, vercel serve & all that other stuff to test on a web server
+         1. this means that you need a computer that can support installations of these tools so no chromebooks unless you use the linux VM which is blocked on enrolled ones
+            1. I would be happy to test it on my computer
    4. make sure that it makes no requests to other website other then for arbritrary reasons such as leader boards
       1. you can check this by going into devtools in your browser while running the game & going into network tab & making sure it makes no requests other then the host(localhost, 127.0.0.1, file:// etc.)
    5. you can try & find your game in the sources below
 3. create a pull request to my repo
+
+some techy word definitions for y'all non-nerds
+- repo: short for repository, a place where code is stored for stuff like access between multiple ppl, such as this repo
+- fork: basically a seperate version of the original repo where the fork creator can add their own stuff to, can make a pull request to  merge the forks changes into the original repo
+- git: a tool to basically manage & control features & versions to make it easier to manage what & what doesn't get added
+- clone(in the git sense): your local copy of the repo
+- local: resides entirely on your device
 
 ## Sources:
 - [genizy](https://github.com/genizy/web-port) for most of the games, contains web ports of pc games
@@ -34,3 +44,4 @@ just go to https://omaribnzakaria.github.io/ublckdgms/birdseed/`code`
 - [HTML-Games-V2](https://github.com/tw31122007/HTML-Games-V2) for the Moto-X3M & Vex 3 games, contains alot of web browser games
 - [Flash Storage dot games](https://flashstorage.games/) for the flash swf files
 - [Ruffle](https://ruffle.rs/downloads#website-package) for flash emulation on browser
+- [Web Balatro Builder](https://w0w53r.github.io/web-balatro/) generates a balatro web port when given the BALATRO.exe or BALATRO.love file, can add mods

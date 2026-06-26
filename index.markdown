@@ -32,7 +32,6 @@ offline install guide coming soon
 - [TWO](../ublckdgms3/plantsvszombiesjs/2/index.html)
 
 ## [EL BALATRO!](/balatrojs/index.html)
-- [Joker Poker BalaBuilder](https://w0w53r.github.io/web-balatro/)(Makes a web version of the real balatro when given the .exe or .love file(this can be found in the game files of your copy of Balatro at home))
 - [Balatro.rar](/balatro.rar)(this is a .rar file, similar to a .zip file, you need to unzip it into your LOCAL files(NOT YOUR GOOGLE DRIVE) & run index.html)
 
 ## [Bitlife](/bitlife/index.html)
