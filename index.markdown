@@ -187,6 +187,7 @@ Class of '09 codeword: c009
 - [SCOOBY DOO CREEPY RUN](/flashgames/scoobyrun/index.html)
 
 ## [X-CLIENT BLOOKET HACK 2](/xclient.txt) (put this in your terminal(Ctrl+Shift+I then go to debug or smh) while playing blooket)
+## [1V1.LOL](/1v1lol/index.html)
 
 Currently transitioning more
 
