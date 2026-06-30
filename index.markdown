@@ -4,6 +4,9 @@
 
 layout: default
 ---
+
+[Home](https://omaribnzakaria.github.io)
+
 [Home](../)
 PRESS THE GITHUB LINK AT THE TOP FOR GUIDES FOR THIS WEBSITE N STUFF
 
@@ -249,6 +252,4 @@ Raldis Crackhouse: Port by me, decompiled by IvanLom2014 ig?
 PVZ 2 gardenless by Gaozih
 
 GTA Vice City by the REVCDOS
-
-[Home](https://omaribnzakaria.github.io)
 
