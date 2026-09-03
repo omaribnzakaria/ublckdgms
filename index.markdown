@@ -25,7 +25,7 @@ the u number infront of the versions is the eagler version which is seperate fro
 
 ex. 1.8.8 u53 is the 53rd update of eaglercraft 1.8.8
 
-THIS DOES NOT MEAN YOUR GETTING ANYTHING NEW, THIS IS MOSTLY JUST OPTIMIZATION UPDATES
+THIS DOES NOT MEAN YOUR GETTING ANYTHING NEW, THIS IS MOSTLY JUST OPTIMIZATION UPDATES, BUG FIXES & EAGLER SPECIFIC FEATURES(so the higher the u number, the more stable it is)
 
 - Downloads to play offline (& also access ws connections)
   - 1.8.8 u53
