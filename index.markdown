@@ -5,26 +5,46 @@
 layout: default
 ---
 
-[Home](https://omaribnzakaria.github.io)
-
 [Home](../)
+
 PRESS THE GITHUB LINK AT THE TOP FOR GUIDES FOR THIS WEBSITE N STUFF
 
 <a href="https://discord.gg/aUpeqRQs8u">
 <img src="discord.png" alt="OUR OFFICIAL DISCORD" width="100">
+
 OUR OFFICIAL DISCORD
 <a>
 
 ## Eaglercraft
 
-- Web Assembly(slighlty faster but less compatible)
-    - [1.12.2](/eaglercraftwasm/1122.html)
-    - [1.8.8](/eaglercraftwasm/188.html)
-- Javascript
-    - [1.12.2](/eaglercraftjs/1122.html)
-    - [1.8.8](/eaglercraftjs/188.html)
+js versions are more stable but are WAY more laggy & should only be used as a fallback
 
-offline install guide coming soon
+WASM is WAY faster but is subject to more crashes
+
+the u number infront of the versions is the eagler version which is seperate from the minecraft version its based off of & just specifies the update to that specific eagler version
+
+ex. 1.8.8 u53 is the 53rd update of eaglercraft 1.8.8
+
+THIS DOES NOT MEAN YOUR GETTING ANYTHING NEW, THIS IS MOSTLY JUST OPTIMIZATION UPDATES
+
+- Downloads to play offline (& also access ws connections)
+  - 1.8.8 u53
+    - <a href="./eaglercraft/download/1.8.8/js/index.html" download>JS</a>
+    - <a href="./eaglercraft/download/1.8.8/wasm/index.html" download>WASM</a>
+  - 1.12.2 u3
+    - <a href="./eaglercraft/download/1.12.2/js/index.html" download>JS</a>
+    - <a href="./eaglercraft/download/1.12.2/wasm/index.html" download>WASM</a>
+  - <a href="./eaglercraft/download/1.16.5/wasm/index.html" download>1.16.5 u3 WASM</a>
+  - <a href="./eaglercraft/download/1.21.11/wasm/index.html" download>1.21.11 u0 WASM</a>
+- Web for playing directly in-website (only allows wss connections)
+  - 1.8.8 u53
+    - [JS](/eaglercraft/download/1.8.8/js/index.html)
+    - [WASM](/eaglercraft/download/1.8.8/wasm/index.html)
+  - 1.12.2 u3
+    - [JS](/eaglercraft/web/1.12.2/js/index.html)
+    - [WASM](/eaglercraft/web/1.12.2/wasm/index.html)
+  - [1.16.5 u3 WASM](/eaglercraft/web/1.16.5/wasm/index.html)
+  - [1.21.11 u0 WASM](/eaglercraft/download/1.21.11/wasm/index.html)
 
 ## [Territorial.io](/fxclient/index.html)
 ## [Cookie Clicker](/cookieclicker/index.html)
