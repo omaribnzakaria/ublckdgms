@@ -27,7 +27,7 @@ ex. 1.8.8 u53 is the 53rd update of eaglercraft 1.8.8
 
 THIS DOES NOT MEAN YOUR GETTING ANYTHING NEW, THIS IS MOSTLY JUST OPTIMIZATION UPDATES, BUG FIXES & EAGLER SPECIFIC FEATURES(so the higher the u number, the more stable it is)
 
-- Downloads to play offline (& also access ws connections)
+- Downloads to play offline (& also access ws connections) NEW!!
   - 1.8.8 u53
     - <a href="./eaglercraft/download/1.8.8/js/index.html" download>JS</a>
     - <a href="./eaglercraft/download/1.8.8/wasm/index.html" download>WASM</a>
@@ -43,8 +43,8 @@ THIS DOES NOT MEAN YOUR GETTING ANYTHING NEW, THIS IS MOSTLY JUST OPTIMIZATION U
   - 1.12.2 u3
     - [JS](/eaglercraft/web/1.12.2/js/index.html)
     - [WASM](/eaglercraft/web/1.12.2/wasm/index.html)
-  - [1.16.5 u3 WASM](/eaglercraft/web/1.16.5/wasm/index.html)
-  - [1.21.11 u0 WASM](/eaglercraft/download/1.21.11/wasm/index.html)
+  - [1.16.5 u3 WASM](/eaglercraft/web/1.16.5/wasm/index.html) NEW!!!
+  - [1.21.11 u0 WASM](/eaglercraft/download/1.21.11/wasm/index.html) NEW!!!
 
 ## [Territorial.io](/fxclient/index.html)
 ## [Cookie Clicker](/cookieclicker/index.html)
@@ -78,7 +78,7 @@ To map controls, hover your mouse on the bottom on the screen and press control 
     - Investigations
       - [Miles Edgeworth](../ublckdgms2/emu/ds/aceattorney/investigations/me/index.html)
   - Pokemon
-    - [Platinum](../ublckdgms2/emu/ds/pokemon/platinum/index.html), NEW!!!!
+    - [Platinum](../ublckdgms2/emu/ds/pokemon/platinum/index.html)
 - Game Boy: Advance
   - Pokemon
     - [Ruby](../ublckdgms2/emu/gba/pokemon/ruby/index.html)
@@ -89,7 +89,7 @@ To map controls, hover your mouse on the bottom on the screen and press control 
     - Country
       - [2: Diddies Quest](../ublckdgms2/emu/snes/donkey-kong/country/2/index.html)
 - Playstation 1
-  - [Metal Gear Solid](../ublckdgms2/emu/ps1/metalgearsolid/index.html), NEW !!!!
+  - [Metal Gear Solid](../ublckdgms2/emu/ps1/metalgearsolid/index.html)
   - [The Need for Speed](../nfswp/index.html)
     - [2](../nfswp/2/index.html)
     - [3](../nfswp/3/index.html)
