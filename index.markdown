@@ -15,6 +15,8 @@ PRESS THE GITHUB LINK AT THE TOP FOR GUIDES FOR THIS WEBSITE N STUFF
 OUR OFFICIAL DISCORD
 <a>
 
+## [Deltarune: Chapters 1-5](../ublckdgms2/deltarune/index.html) YES CHAPTER 5 IS HERE!!!!!!!!!
+
 ## Eaglercraft
 
 js versions are more stable but are WAY more laggy & should only be used as a fallback
@@ -27,7 +29,7 @@ ex. 1.8.8 u53 is the 53rd update of eaglercraft 1.8.8
 
 THIS DOES NOT MEAN YOUR GETTING ANYTHING NEW, THIS IS MOSTLY JUST OPTIMIZATION UPDATES, BUG FIXES & EAGLER SPECIFIC FEATURES(so the higher the u number, the more stable it is)
 
-- Downloads to play offline (& also access ws connections) NEW!!
+- Downloads to play offline (& also access ws connections)
   - 1.8.8 u53
     - <a href="./eaglercraft/download/1.8.8/js/index.html" download>JS</a>
     - <a href="./eaglercraft/download/1.8.8/wasm/index.html" download>WASM</a>
@@ -43,8 +45,8 @@ THIS DOES NOT MEAN YOUR GETTING ANYTHING NEW, THIS IS MOSTLY JUST OPTIMIZATION U
   - 1.12.2 u3
     - [JS](/eaglercraft/web/1.12.2/js/index.html)
     - [WASM](/eaglercraft/web/1.12.2/wasm/index.html)
-  - [1.16.5 u3 WASM](/eaglercraft/web/1.16.5/wasm/index.html) NEW!!!
-  - [1.21.11 u0 WASM](/eaglercraft/download/1.21.11/wasm/index.html) NEW!!!
+  - [1.16.5 u3 WASM](/eaglercraft/web/1.16.5/wasm/index.html)
+  - [1.21.11 u0 WASM](/eaglercraft/download/1.21.11/wasm/index.html)
 
 ## [Territorial.io](/fxclient/index.html)
 ## [Cookie Clicker](/cookieclicker/index.html)
@@ -115,8 +117,6 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 - [World](../ublckdgms3/fnaf/w/index.html)
 
 ## [Undertale](/undertale/index.html)
-
-## [Deltarune: Chapters 1-4](/deltarune/index.html)
 
 ## Kindergarten
 - [1](/kindergarten/1/index.html)
