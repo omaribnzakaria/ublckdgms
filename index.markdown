@@ -17,7 +17,7 @@ OUR OFFICIAL DISCORD
 
 ## [Deltarune: Chapters 1-5](../ublckdgms2/deltarune/index.html) YES CHAPTER 5 IS HERE!!!!!!!!!
 
-## Eaglercraft
+## Minecraft (Eaglercraft)
 
 js versions are more stable but are WAY more laggy & should only be used as a fallback
 
@@ -48,10 +48,28 @@ THIS DOES NOT MEAN YOUR GETTING ANYTHING NEW, THIS IS MOSTLY JUST OPTIMIZATION U
   - [1.16.5 u3 WASM](/eaglercraft/web/1.16.5/wasm/index.html)
   - [1.21.11 u0 WASM](/eaglercraft/download/1.21.11/wasm/index.html)
 
-## [Territorial.io](/fxclient/index.html)
-## [Cookie Clicker](/cookieclicker/index.html)
-## Plants Vs Zombies
+## [Grand Theft Auto: Vice City](/gtavc/index.html)
+- [Offline Download for local hosting & also hosting for yourself as I am hosting the actual game on vercel so you can't just copy this](https://pub-2d16fbb9a4014be1abf81679ee7e6b24.r2.dev/offlinegtavc.7z), this is a 7z file so you have to extract it using 7zip, this only runs if you add a slash at the end of the url & also if you use a web server such as npx serve
 
+## [Half Life](../ublckdgms2/half-life/index.html)
+
+## [Hollow Knight](../ublckdgms2/hollow-knight-opt/index.html)
+
+## [Undertale](/undertale/index.html)
+
+## [Geometry Dash](/gdwebp/index.html)
+
+## [Stardew Valley](../ublckdgms2/stardew-valley/index.html)
+
+## [SUPER LIQUID SOCCER](./liquidsoccer/index.html)
+
+## [UNICYCLE HERO](./unicycle/index.html)
+
+## [Territorial.io](/fxclient/index.html)
+
+## [Cookie Clicker](/cookieclicker/index.html)
+
+## Plants Vs Zombies
 - [2012 Chinese version(Obviously have to translate it(use your browsers built in translate webpage tool))](../ublckdgms3/plantsvszombiesjs/source12/Index.htm)
 - [Objectively better modded version that I stole so ignore the warning](../ublckdgms3/plantsvszombiesjs/modstol/index.html):trollface:
 - [TWO](../ublckdgms3/plantsvszombiesjs/2/index.html)
@@ -91,6 +109,7 @@ To map controls, hover your mouse on the bottom on the screen and press control 
     - Country
       - [2: Diddies Quest](../ublckdgms2/emu/snes/donkey-kong/country/2/index.html)
 - Playstation 1
+  - [APE ESCAPE!!!](../ublckdgms3/emu/ps1/apescape/index.html)
   - [Metal Gear Solid](../ublckdgms2/emu/ps1/metalgearsolid/index.html)
   - [The Need for Speed](../nfswp/index.html)
     - [2](../nfswp/2/index.html)
@@ -101,8 +120,6 @@ To map controls, hover your mouse on the bottom on the screen and press control 
     - [9](../finalfantawp/9/index.html)
 
 ## [Cuphead](../ublckdgms2/cuphead/index.html)
-
-## [Hollow Knight](../ublckdgms2/hollow-knight-opt/index.html)
 
 ## [Five Nights At Epsteins](/fnae/index.html)
 
@@ -115,8 +132,6 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 - [Sister Location](../ublckdgms3/fnaf/sl/index.html)
 - [Ultimate Custom Night](../ublckdgms3/fnaf/ucn/index.html)
 - [World](../ublckdgms3/fnaf/w/index.html)
-
-## [Undertale](/undertale/index.html)
 
 ## Kindergarten
 - [1](/kindergarten/1/index.html)
@@ -152,11 +167,7 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 ## Fears to Fathom
 - [Part 1: Home Alone](../ublckdgms2//fears-to-fathom/home-alone/index.html)
 
-## [Geometry Dash](/gdwebp/index.html), UPDATE!!!!!
-
 ## [Plague Inc: Evolved](/plagueinc-ev/index.html)
-
-## [Stardew Valley](../ublckdgms2/stardew-valley/index.html)
 
 ## [Raldi's Crackhouse!](../ublckdgms2//raldi/index.html)
 
@@ -186,11 +197,6 @@ To map controls, hover your mouse on the bottom on the screen and press control 
 ## [Polytrack Modded](/polytrack/index.html)
 
 ## [Paper.io 2](/paperio2/index.html)
-
-## [Grand Theft Auto: Vice City](/gtavc/index.html)
-- [Offline Download for local hosting & also hosting for yourself as I am hosting the actual game on vercel so you can't just copy this](https://pub-2d16fbb9a4014be1abf81679ee7e6b24.r2.dev/offlinegtavc.7z), this is a 7z file so you have to extract it using 7zip, this only runs if you add a slash at the end of the url & also if you use a web server such as npx serve
-
-## [Half Life](../ublckdgms2/half-life/index.html)
 
 ## [Bad Piggies +Cheats](../ublckdgms2/baddie-piggies/index.html)
 
@@ -233,7 +239,7 @@ Hollowknight: [hummingbird-9](https://github.com/hummingbird-9)
 
 Undertale: [burntpopcorn180](https://github.com/burnedpopcorn/) for porting & [bandit968thegamer-ops](https://github.com/bandit968thegamer-ops) for conserving
 
-Deltarune: [genizy](https://github.com/genizy) for conserving & [BOG](https://github.com/aukak) for porting
+Deltarune: [ByAlvaro19](https://github.com/ByAlvaro19)
 
 Kindergarten: genizy
 
