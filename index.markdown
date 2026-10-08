@@ -15,6 +15,15 @@ PRESS THE GITHUB LINK AT THE TOP FOR GUIDES FOR THIS WEBSITE N STUFF
 OUR OFFICIAL DISCORD
 <a>
 
+
+## THE HOLY GRAIL OF Ye(Formely Known as Kanye Omari West) LEAKS HAS BEEN REVEALED AFTER A COLLABORATIVE PURCHASE OF $23,000
+
+## LADIES & GENTLEMEN, I INTRODUCE YOU THE GRAND PIECE` OF WATCH THE THRONE: LIVING. SO. ITALIAN
+
+<embed type="text/html" src="./musicplayer.html" width="720" height="540">
+
+Ye please don't take this stuff down, I spent 4 days working on my own music player for this, alteast let me have this up for a week. XOXO
+
 ## [Deltarune: Chapters 1-5](../ublckdgms2/deltarune/index.html) YES CHAPTER 5 IS HERE!!!!!!!!!
 
 ## Minecraft (Eaglercraft)
